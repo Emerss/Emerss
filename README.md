@@ -1,4 +1,6 @@
-Console.WriteLine ("Olá mundo!");
+Console.WriteLine ("Hello World!");
+
+Using day to day to document new discoveries :).
 
 <!---
 Emerss/Emerss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
